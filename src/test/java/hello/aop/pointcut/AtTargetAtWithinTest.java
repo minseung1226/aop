@@ -28,6 +28,7 @@ public class AtTargetAtWithinTest {
         }
         @Bean
         public Child child() {
+
             return new Child();
         }
         @Bean
