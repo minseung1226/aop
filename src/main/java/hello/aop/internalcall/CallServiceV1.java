@@ -5,7 +5,6 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
 @Slf4j
-@Component
 public class CallServiceV1 {
 
     private CallServiceV1 callServiceV1;
